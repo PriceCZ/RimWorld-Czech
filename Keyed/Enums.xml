@@ -62,7 +62,7 @@
   <HungerLevel_Fed>Sytost</HungerLevel_Fed>
 
   <!-- -Fatigue -->
-  <HungerLevel_Exhausted>Uhašen</HungerLevel_Exhausted>
+  <HungerLevel_Exhausted>Vyčerpán</HungerLevel_Exhausted>
   <HungerLevel_VeryTired>Velmi unaven</HungerLevel_VeryTired>
   <HungerLevel_Tired>Unaven</HungerLevel_Tired>
   <HungerLevel_Rested>Odpočat</HungerLevel_Rested>
